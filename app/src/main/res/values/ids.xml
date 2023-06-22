@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonreset" type="id"></item>
+    <item name="imageView4" type="id"></item>
+    <item name="imageView6" type="id"></item>
+    <item name="imageView7" type="id"></item>
+    <item name="imageView8" type="id"></item>
+    <item name="editTextNumber" type="id"></item>
+    <item name="imageView11" type="id"></item>
+    <item name="buttoncheck" type="id"></item>
+    <item name="imageView3" type="id"></item>
+    <item name="textView" type="id"></item>
+    <item name="imageView9" type="id"></item>
+    <item name="imageView10" type="id"></item>
+    <item name="imageView14" type="id" />
+    <item name="imageView13" type="id" />
+    <item name="imageView16" type="id" />
+    <item name="imageView17" type="id" />
+    <item name="questions" type="id" />
+    <item name="editTextNumber2" type="id" />
+    <item name="editTextNumber3" type="id" />
+    <item name="editTextNumber4" type="id" />
+    <item name="editTextNumber5" type="id" />
+    <item name="editTextNumber6" type="id" />
+    <item name="check" type="id" />
+    <item name="score" type="id" />
+    <item name="textView6" type="id" />
+</resources>
